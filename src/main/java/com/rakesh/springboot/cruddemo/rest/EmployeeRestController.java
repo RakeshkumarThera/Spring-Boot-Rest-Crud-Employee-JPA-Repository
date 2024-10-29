@@ -1,6 +1,5 @@
 package com.rakesh.springboot.cruddemo.rest;
 
-import com.rakesh.springboot.cruddemo.dao.EmployeeDAO;
 import com.rakesh.springboot.cruddemo.entity.Employee;
 import com.rakesh.springboot.cruddemo.service.EmployeeService;
 import org.springframework.web.bind.annotation.*;
